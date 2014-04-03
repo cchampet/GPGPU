@@ -7,7 +7,7 @@ Content :
   - TD1 : basic effects, with glsl
   - TD2 : introduction to Cuda (parallel computations...)
   - TD3 : dive in Cuda (shared memory, atomic operations...)
-  - TD4 : MLAA algorithm (MorphoLogical AntiAliasing)
+  - MLAA : the MLAA algorithm (MorphoLogical AntiAliasing)
 
 Contributors :
   - Clément Champetier
