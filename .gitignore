@@ -12,6 +12,6 @@ Thumbs.db
 # Obj
 *.o
 
-# bin
+# Bin
 aSimpleGLSLProg
-MLAA
+SAT
